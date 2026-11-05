@@ -1,0 +1,15 @@
+
+# Original game files
+game/
+*.RDR
+*.RDA
+*.RDT
+
+# Extracted assets
+unpacked/
+Rebuilt_Collection/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
